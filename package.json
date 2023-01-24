@@ -1,0 +1,18 @@
+{
+  "name": "robucho-whatsgpt",
+  "version": "0.0.1",
+  "description": "Robucho is a WhatsApp bot that uses AI and natural language processing to automate tasks and improve communication.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Mario Paglia",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0",
+    "venom-bot": "^4.3.7"
+  }
+}

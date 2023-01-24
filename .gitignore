@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Yarn and NPM files
+yarn.lock
+package-lock.json
+
+# Dependency directories
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Tokens
+tokens/
